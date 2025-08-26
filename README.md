@@ -1,4 +1,4 @@
-# sysinfo – Linux System Information CLI Tool
+# sysinfo – Linux System Information CLI Toolhttps://github.com/unknownhimanshu/sysinfo/blob/main/README.md
 
 **sysinfo** is a colorful, lightweight command-line tool written in **JavaScript (Node.js)** that displays key system stats:
 - OS & Hostname
